@@ -196,23 +196,6 @@ L'application affiche :
 
 ---
 
-## 🚀 Prochaines Étapes
-
-Dans les prochaines séances, nous apprendrons à :
-- Utiliser le **State** avec `useState` pour rendre l'application interactive
-- Gérer les **événements** (clics, soumission de formulaires)
-- Ajouter des **fonctionnalités dynamiques** (like, commentaires)
-- Utiliser le **CSS Modules** pour une meilleure organisation des styles
-
----
-
-## 👨‍💻 Auteur
-
-**Étudiant(e)** - École Polytechnique de Sousse  
-**Formation** : MERN Stack - Semaine 6  
-**Date** : Novembre 2025
-
----
 
 ## 📄 Licence
 
@@ -229,6 +212,3 @@ Ce projet est réalisé dans un cadre éducatif.
 - ✅ Design simple et élégant
 - ✅ Application fonctionnelle et responsive
 
----
-
-**🎉 Félicitations ! Vous avez créé votre première application React complète !**
